@@ -3,7 +3,7 @@ services:
   - type: web
     name: fruit-bot
     env: python
-    repo: https://github.com/ваш-логин/ваш-репозиторий
+    repo: https://github.com/tim05062012/bloxFruitsCardBot
     branch: main
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
