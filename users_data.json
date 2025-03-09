@@ -1,0 +1,56 @@
+{
+  "users": {
+    "5173037460": {
+      "last_spin": "2025-03-09T17:55:45.697418",
+      "inventory": [
+        {
+          "name": "🦘 Spring-Spring",
+          "type": "Paramecia",
+          "damage": 38,
+          "health": 48,
+          "rarity": "Common",
+          "obtained": "2025-03-09T17:55:45.697418"
+        }
+      ]
+    },
+    "2085304752": {
+      "last_spin": "2025-03-09T17:57:12.426939",
+      "inventory": [
+        {
+          "name": "🦅 Falcon-Falcon",
+          "type": "Zoan",
+          "damage": 58,
+          "health": 68,
+          "rarity": "Uncommon",
+          "obtained": "2025-03-09T17:57:12.426939"
+        }
+      ]
+    },
+    "7453647428": {
+      "last_spin": "2025-03-09T18:01:40.952552",
+      "inventory": [
+        {
+          "name": "🦘 Spring-Spring",
+          "type": "Paramecia",
+          "damage": 38,
+          "health": 48,
+          "rarity": "Common",
+          "obtained": "2025-03-09T18:01:40.952552"
+        }
+      ]
+    },
+    "6097752198": {
+      "last_spin": "2025-03-09T18:03:37.309151",
+      "inventory": [
+        {
+          "name": "💢 Quake-Quake",
+          "type": "Paramecia",
+          "damage": 130,
+          "health": 140,
+          "rarity": "Legendary",
+          "obtained": "2025-03-09T18:03:37.309151"
+        }
+      ]
+    }
+  }
+}

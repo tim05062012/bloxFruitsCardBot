@@ -1,0 +1,42 @@
+{
+    "devil_fruits": {
+      "Common": [
+        {"name": "🚀 Rocket-Rocket", "type": "Paramecia", "damage": 35, "health": 45, "rarity": "Common"},
+        {"name": "🌀 Spin-Spin", "type": "Paramecia", "damage": 30, "health": 40, "rarity": "Common"},
+        {"name": "🪒 Blade-Blade", "type": "Paramecia", "damage": 40, "health": 50, "rarity": "Common"},
+        {"name": "🦘 Spring-Spring", "type": "Paramecia", "damage": 38, "health": 48, "rarity": "Common"}
+      ],
+      "Uncommon": [
+        {"name": "💣 Bomb-Bomb", "type": "Paramecia", "damage": 55, "health": 65, "rarity": "Uncommon"},
+        {"name": "💨 Smoke-Smoke", "type": "Logia", "damage": 60, "health": 70, "rarity": "Uncommon"},
+        {"name": "🌵 Spike-Spike", "type": "Paramecia", "damage": 50, "health": 60, "rarity": "Uncommon"},
+        {"name": "🦅 Falcon-Falcon", "type": "Zoan", "damage": 58, "health": 68, "rarity": "Uncommon"}
+      ],
+      "Rare": [
+        {"name": "🔥 Flame-Flame", "type": "Logia", "damage": 75, "health": 85, "rarity": "Rare"},
+        {"name": "❄️ Ice-Ice", "type": "Logia", "damage": 80, "health": 90, "rarity": "Rare"},
+        {"name": "🏖️ Sand-Sand", "type": "Logia", "damage": 78, "health": 88, "rarity": "Rare"},
+        {"name": "💎 Diamond-Diamond", "type": "Paramecia", "damage": 85, "health": 95, "rarity": "Rare"},
+        {"name": "🌑 Dark-Dark", "type": "Logia", "damage": 95, "health": 110, "rarity": "Rare"},
+        {"name": "✨ Light-Light", "type": "Logia", "damage": 100, "health": 115, "rarity": "Rare"},
+        {"name": "🛡️ Barrier-Barrier", "type": "Paramecia", "damage": 90, "health": 105, "rarity": "Rare"},
+        {"name": "👻 Ghost-Ghost", "type": "Paramecia", "damage": 92, "health": 107, "rarity": "Rare"}
+      ],
+      "Legendary": [
+        {"name": "🌋 Magma-Magma", "type": "Logia", "damage": 120, "health": 130, "rarity": "Legendary"},
+        {"name": "💢 Quake-Quake", "type": "Paramecia", "damage": 130, "health": 140, "rarity": "Legendary"},
+        {"name": "🕷️ Spider-Spider", "type": "Zoan", "damage": 125, "health": 135, "rarity": "Legendary"},
+        {"name": "🌀 Gravity-Gravity", "type": "Paramecia", "damage": 128, "health": 138, "rarity": "Legendary"}
+      ],
+      "Mythical": [
+        {"name": "🐉 Dragon-Dragon", "type": "Zoan", "damage": 160, "health": 190, "rarity": "Mythical"},
+        {"name": "🍩 Dough-Dough", "type": "Paramecia", "damage": 170, "health": 200, "rarity": "Mythical"},
+        {"name": "🎭 Shadow-Shadow", "type": "Paramecia", "damage": 165, "health": 195, "rarity": "Mythical"},
+        {"name": "☠️ Venom-Venom", "type": "Paramecia", "damage": 168, "health": 198, "rarity": "Mythical"},
+        {"name": "🦣 Mammoth-Mammoth", "type": "Zoan", "damage": 180, "health": 220, "rarity": "Mythical"},
+        {"name": "🦖 T-Rex-T-Rex", "type": "Zoan", "damage": 185, "health": 225, "rarity": "Mythical"},
+        {"name": "🎎 Kitsune-Kitsune", "type": "Zoan", "damage": 200, "health": 250, "rarity": "Mythical"},
+        {"name": "🎭 Control-Control", "type": "Paramecia", "damage": 190, "health": 230, "rarity": "Mythical"}
+      ]
+    }
+  }
