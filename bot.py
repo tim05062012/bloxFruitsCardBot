@@ -13,7 +13,7 @@ from telegram.ext import (
 import os
 from dotenv import load_dotenv
 
-load_dotenv('Token.env')
+load_dotenv()
 
 # Конфигурация
 ADMINS = [6097752198, 5173037460]  # Замените на ID администраторов
