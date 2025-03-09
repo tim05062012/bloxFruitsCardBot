@@ -1,0 +1,13 @@
+# render.yaml
+services:
+  - type: web
+    name: fruit-bot
+    env: python
+    repo: https://github.com/ваш-логин/ваш-репозиторий
+    branch: main
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    envVars:
+      - key: TELEGRAM_TOKEN
+        value: 7604776015:AAE5d65xYkGCgxgt_U-J11uGvJsY-vRHJHI
+    plan: free
